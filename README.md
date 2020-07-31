@@ -40,4 +40,6 @@ Anyway. Here comes the obligatory list of stuff I do, did or want to do:
   - 🥊 [Self-hosting](https://www.reddit.com/r/selfhosted/), [HomeLabs](https://www.reddit.com/r/homelab/), racks and all that stuff that has a WAF of zero
 - ⚡ Fun fact: I'm really good at pretending to be french.
 
+👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
 👉 And yeah I'm looking for a job in Frankfurt am Main, in IT (duh.) 👈
+☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
