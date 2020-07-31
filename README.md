@@ -11,6 +11,8 @@ Anyway. Here comes the obligatory list of stuff I do, did or want to do:
   - 🔒 [pynuki](https://github.com/pschmitt/pynuki), an API wrapper for [Nuki Smart Locks](https://nuki.io)
   - 🥱 Various enterprisy stuff (see [this](https://github.com/pschmitt/fortipy) and [that](https://github.com/pschmitt/python-opsview), or [even this thing]() for example)
   - [...]
+  
+- 📦 I [used to do](https://github.com/pschmitt?tab=repositories&q=aur&type=&language=) a lot of [ArchLinux](https://www.archlinux.org/) packaging
 
 - 🔭 I’m currently working on
   - 🏠 [Home Assistant](https://github.com/home-assistant/core/pulls?q=is%3Apr+author%3Apschmitt+)
@@ -24,17 +26,18 @@ Anyway. Here comes the obligatory list of stuff I do, did or want to do:
   - 🧑‍💼 Raising awareness about the growing importance of ARM and Docker/containerization by making more images available for these platforms.
 
 - 🌱 I’m currently learning
-  - 🧑‍🤝‍🧑 Kubernetes/k3s
-  - 😥 GlusterFS
+  - 🧑‍🤝‍🧑 Kubernetes/[k3s](https://k3s.io/)
+  - 🐜 [GlusterFS](https://www.gluster.org/)
+  - 🧑‍🎨 [zsh completions](https://linux.die.net/man/1/zshcompsys)
 
 - 💬 Ask me about
-  - 🌈 Living in the shell, with vim, zsh and tmux
-  - 🤖 Home Assistant, home automation and IOT
+  - 🌈 Living in the shell, with [(neo)vim](https://www.vim.org/), [zsh](https://www.zsh.org/) and [tmux](https://github.com/tmux/tmux)
+  - 🤖 [Home Assistant](https://www.home-assistant.io/), home automation and IOT
   - 🤳 Being productive and writing code on your Android device [#termux](https://termux.com/)
-  - ✌️ ARM and Raspberry Pis
-  - 🐋 Docker and Docker Swarm
+  - ✌️ ARM and [Raspberry Pis](https://www.raspberrypi.org/)
+  - 🐋 [Docker](https://www.docker.com/), [Docker Swarm](https://docs.docker.com/engine/swarm/) and [buildx](https://docs.docker.com/buildx/working-with-buildx/)
   - 🏢 FOSS in the enterprise
-  - 🥊 Self-hosting, HomeLabs, racks and all that stuff that has a WAF of zero
+  - 🥊 [Self-hosting](https://www.reddit.com/r/selfhosted/), [HomeLabs](https://www.reddit.com/r/homelab/), racks and all that stuff that has a WAF of zero
 - ⚡ Fun fact: I'm really good at pretending to be french.
 
 👉 And yeah I'm looking for a job in Frankfurt am Main, in IT (duh.) 👈
