@@ -42,7 +42,7 @@ Anyway. Here comes the obligatory list of stuff I do, did or want to do:
 
 👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
 
-👉 And yeah I'm looking for a job in Frankfurt am Main, in IT (duh.)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👈
+👉 And yeah I'm looking for a job in Frankfurt am Main, in IT (duh.)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👈
 
 👉 My resume is available here: https://registry.jsonresume.org/pschmitt 👈
 
