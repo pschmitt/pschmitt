@@ -16,7 +16,7 @@ Anyway. Here comes the obligatory list of stuff I do, did or want to do:
 
 - 🔭 I’m currently working on
   - 🏠 [Home Assistant](https://github.com/home-assistant/core/pulls?q=is%3Apr+author%3Apschmitt+)
-  - 🛩️ [Docker images for ARM and other archs for Zabbix](https://github.com/pschmitt/zabbix-docker-multiarch)
+  - 🛩️ ~~[Docker images for ARM and other archs for Zabbix](https://github.com/pschmitt/zabbix-docker-multiarch)~~
   - ➕ various tmux plugins (see [this](https://github.com/pschmitt/tmux-slay) and [that](https://github.com/pschmitt/tmux-ssh-split), and my PRs on the [tmux-plugins org](https://github.com/tmux-plugins))
   - ⚒️ my dotfiles (private as of now, sorry)
   - 🤷‍♂️ Whatever I feel like exploring ATM
