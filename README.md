@@ -40,7 +40,7 @@ Anyway. Here comes the obligatory list of stuff I do, did or want to do:
   - 🐋 [Docker](https://www.docker.com/), [Docker Swarm](https://docs.docker.com/engine/swarm/) and [buildx](https://docs.docker.com/buildx/working-with-buildx/)
   - 🏢 FOSS in the enterprise
   - 🥊 [Self-hosting](https://www.reddit.com/r/selfhosted/), [HomeLabs](https://www.reddit.com/r/homelab/), racks and all that stuff that has a [PAF](https://youtu.be/xSB_MuKkgxE?t=4525) of zero
-- ⚡ Fun fact: I'm really good at pretending to be french.
+- ⚡ Fun fact: I'm really good at pretending to be french !
 
 👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
 
