@@ -11,14 +11,15 @@ Anyway. Here comes the obligatory list of stuff I do, did or want to do:
   - 🔒 [pynuki](https://github.com/pschmitt/pynuki), an API wrapper for [Nuki Smart Locks](https://nuki.io)
   - 🥱 Various enterprisy stuff (see [this](https://github.com/pschmitt/fortipy) and [that](https://github.com/pschmitt/python-opsview), or [even this thing](https://github.com/post-luxembourg/docker-pmp/) for example)
   - [...]
-  
+
 - 📦 I [used to do](https://github.com/pschmitt?tab=repositories&q=aur&type=&language=) a lot of [ArchLinux](https://www.archlinux.org/) packaging
 
 - 🔭 I’m currently working on
   - 🏠 [Home Assistant](https://github.com/home-assistant/core/pulls?q=is%3Apr+author%3Apschmitt+)
   - 🛩️ ~~[Docker images for ARM and other archs for Zabbix](https://github.com/pschmitt/zabbix-docker-multiarch)~~
   - ➕ various tmux plugins (see [this](https://github.com/pschmitt/tmux-slay) and [that](https://github.com/pschmitt/tmux-ssh-split), and my PRs on the [tmux-plugins org](https://github.com/tmux-plugins))
-  - ⚒️ my dotfiles (private as of now, sorry)
+  - ⚒️ my dotfiles (private as of now, sorry). It's mostly zsh, nvim, tmux and ansible though.
+  - 📳 [Termux packaging](https://github.com/termux/termux-packages/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Apschmitt+is%3Aclosed)
   - 🤷‍♂️ Whatever I feel like exploring ATM
 
 - 🤔 I’m looking for help with
@@ -27,7 +28,8 @@ Anyway. Here comes the obligatory list of stuff I do, did or want to do:
 
 - 🌱 I’m currently learning
   - 🧑‍🤝‍🧑 Kubernetes/[k3s](https://k3s.io/)
-  - 🐜 [GlusterFS](https://www.gluster.org/)
+  - 🐂 [Longhorn](https://longhorn.io/)
+  - ~~🐜 [GlusterFS](https://www.gluster.org/)~~
   - 🧑‍🎨 [zsh completions](https://linux.die.net/man/1/zshcompsys)
 
 - 💬 Ask me about
