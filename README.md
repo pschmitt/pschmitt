@@ -1,4 +1,4 @@
-### 🍱 Hello there!
+### 🍱 Yahaha! Hello there!
 
 I'm one of *these devs* that loves doing development on his own time.
 Running a HomeLab and all. FOSS is life!
