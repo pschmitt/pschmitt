@@ -7,7 +7,7 @@ Here's an abbreviated list of things I do and/or contribute to:
 
 - 👺 Proud member of [zdharma-continuum](https://github.com/zdharma-continuum).
 The main project is [zinit](https://github.com/zdharma-continuum/zinit), a
-plugin manager for zsh. But there are a lot more projects in there. Shoot me a
+plugin manager for zsh. But there are a lot more projects in there. Shoot me an
 email if you want to get involved ;)
 - 🏣 OP/OG creator of [pykeepass](https://github.com/libkeepass/pykeepass),
 a library for interacting with [KeePass](https://keepass.info/) databases in
